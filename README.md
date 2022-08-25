@@ -24,12 +24,12 @@ My name is Moses Owhonda and I'm a Data Analyst 👨‍💻
 
 In my spare time, I like to learn about new trends in tech. My hobbies also include music production, video gaming and soccer.
 
-##### `Languages and Tools`
+#### `Languages and Tools`
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="80" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-##### `My Stats`
+#### `My Stats`
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=owhonda-moses&theme=dark&background=000000)](https://git.io/streak-stats)
