@@ -5,13 +5,13 @@
 
 <div id="badges" align="center">
     <a href="https://owhonda-moses.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target=”_blank” alt="Portfolio Badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge" target=”_blank”/>
   </a>
   <a href="https://linkedin.com/in/moses-owhonda">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" target=”_blank” alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target=”_blank”/>
   </a>  
   <a href="https://owhonda-moses.medium.com">
-    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" target=”_blank” alt="Medium Badge"/>
+    <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" target=”_blank”/>
   </a>
  </div>
  
