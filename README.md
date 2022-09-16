@@ -4,9 +4,12 @@
 
 
 <div id="badges" align="center">
+    <a href="https://owhonda-moses.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge"/>
+  </a>
   <a href="https://linkedin.com/in/moses-owhonda">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
+  </a>  
   <a href="https://owhonda-moses.medium.com">
     <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
