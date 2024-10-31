@@ -21,7 +21,7 @@
 </h4>
 
 My name is Moses Owhonda, and I'm a Data Scientist 👨‍💻
-- Masters degree in Data Science with a high distinction at the University of South Wales.
+- Masters degree in Data Science with a high distinction at the University of South Wales. 👨‍🎓
 - Completed the Udacity Data Analysis Nanodegree, Coursera Machine Learning Specialization, and SQL for Data Analysis.
 - Skilled at using Python for building machine learning and deep learning models, web scraping, and data analysis.
 - Proficient with R for data mining and exploratory analysis, SQL for data manipulation and analysis, and Tableau for visualizations and dashboards.
