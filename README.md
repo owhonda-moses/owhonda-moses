@@ -20,7 +20,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
 </h4>
 
-My name is Moses Owhonda, and I'm a Data Scientist 👨‍💻
+My name is Moses, and I'm a Data Scientist 👨‍💻
 - Masters degree in Data Science with a high distinction at the University of South Wales. 👨‍🎓
 - Skilled at using Python open-source frameworks for building machine learning and deep learning models, web scraping, time-series forecasting, a/b testing, statistical and data analysis.
 - Proficient with R for data mining and exploratory analysis, SQL for data manipulation and analysis, and Tableau for visualizations and dashboards.
