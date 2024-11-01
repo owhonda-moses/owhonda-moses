@@ -27,7 +27,7 @@ My name is Moses, and I'm a Data Scientist 👨‍💻
 - RSS member and CandORS.
 - I actively follow trends in data science and machine learning in MLOPs community, meetups, and Youtube, among others. Currently applying to fill a data scientist role.
 
-In my spare time, I like to learn about new trends in tech. My hobbies also include music production, video gaming, and soccer.
+In my spare time, I like to learn about new trends in tech. My hobbies also include music production, video gaming, and football.
 
 #### `Languages and Tools`
 <div>
