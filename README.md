@@ -4,12 +4,12 @@
 
 
 <div id="badges" align="center">
+     <a href="https://linkedin.com/in/moses-owhonda">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target=”_blank”/>
+  </a>  
     <a href="https://owhonda-moses.github.io">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio Badge" target=”_blank”/>
   </a>
-  <a href="https://linkedin.com/in/moses-owhonda">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" target=”_blank”/>
-  </a>  
   <a href="https://owhonda-moses.medium.com">
     <img src="https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" target=”_blank”/>
   </a>
@@ -20,14 +20,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
 </h4>
 
-My name is Moses, and I'm a Data Scientist 👨‍💻
-- Masters degree in Data Science with a high distinction at the University of South Wales. 👨‍🎓
-- Skilled at using Python open-source frameworks for building machine learning and deep learning models, web scraping, time-series forecasting, a/b testing, statistical and data analysis.
-- Proficient with R for data mining and exploratory analysis, SQL for data manipulation and analysis, and Tableau for visualizations and dashboards.
-- RSS member and CandORS.
-- I actively follow trends in data science and machine learning in MLOPs community, meetups, and Youtube, among others. Currently applying to fill a data scientist role.
+I'm Moses, a Data Scientist and M/L Engineer 👨‍💻
+- Masters in DS 👨‍🎓
+- Skilled at using open-source frameworks for building neural networks, ML, and statistical models.
+- R for data mining and exploratory analysis, SQL for data manipulation and analysis, and Tableau/PowerBI for visualisations and dashboards.
+- RSS student member and The ORS Candidate Associate (CandORS).
 
-In my spare time, I like to learn about new trends in tech. My hobbies also include music production, video gaming, and football.
 
 #### `Languages and Tools`
 <div>
@@ -38,6 +36,3 @@ In my spare time, I like to learn about new trends in tech. My hobbies also incl
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" title="Tableau" alt="Tableau" width="80" height="25"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-
-#### `My Stats`
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=owhonda-moses&theme=dark&background=000000)](https://git.io/streak-stats)
