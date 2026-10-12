@@ -20,10 +20,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="15px"/>
 </h4>
 
-I'm Moses, a Data Scientist and M/L Engineer 👨‍💻
+I'm a Data Scientist and M/L Engineer 👨‍💻
 - Masters in DS 👨‍🎓
 - Skilled at using open-source frameworks for building neural networks, ML, and statistical models.
-- R for data mining and exploratory analysis, SQL for data manipulation and analysis, and Tableau/PowerBI for visualisations and dashboards.
+- R for data mining and analysis, SQL for data manipulation, and Tableau/PowerBI for visualisations and dashboards.
 - RSS student member and The ORS Candidate Associate (CandORS).
 
 
